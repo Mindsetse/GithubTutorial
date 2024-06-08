@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(this, "Hello world", Toast.LENGTH_SHORT).show();
 
         Log.d("TAG", "Hello world log");
+        Log.d("TAG", "Hello world log2");
 
     }
 }
